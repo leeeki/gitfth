@@ -1,1 +1,1 @@
-첫 git 사용
+처음 git, github 사용
